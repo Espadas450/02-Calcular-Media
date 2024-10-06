@@ -14,7 +14,7 @@ public class Main {
         // Calcular medio de conjunto
         media = CalcularMedia(conjunto,longitud);
 
-        // Desplegar resultado
+        // Desplegar resultado con formato de 2 dígitos
         System.out.printf("La media de los numero ingresados es: %.02f\n", media);
     }
 
